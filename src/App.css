@@ -10,7 +10,8 @@ width: 90%;
 max-width: 700px;
 height: 470px;
 padding: 20px 15px;
-background: rgb(0, 255, 166);
+background: #8AAAE5;
+border-radius: 5%;
 }
 
 .search-engine {
